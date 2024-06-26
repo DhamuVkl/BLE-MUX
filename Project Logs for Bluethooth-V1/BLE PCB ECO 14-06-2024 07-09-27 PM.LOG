@@ -1,0 +1,24 @@
+Added Component: Designator=ANT1B_U_BLE1(RN-ANT)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Antenna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Antenna/Infineon%20Technologies/view-part/3603982/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ANT1B_U_BLE2(RN-ANT)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Antenna"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Antenna/Infineon%20Technologies/view-part/3603982/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RF_ANT-OUT_U_BLE1 Pin=ANT1B_U_BLE1-FEED
+Added Pin To Net: NetName=GND Pin=ANT1B_U_BLE1-GND
+Added Pin To Net: NetName=GND Pin=ANT1B_U_BLE1-GND
+Added Pin To Net: NetName=RF_ANT-OUT_U_BLE2 Pin=ANT1B_U_BLE2-FEED
+Added Pin To Net: NetName=GND Pin=ANT1B_U_BLE2-GND
+Added Pin To Net: NetName=GND Pin=ANT1B_U_BLE2-GND
+Added Member To Class: ClassName=U_BLE1 Member=Component ANT1B_U_BLE1 (ANT1B) ANTENNA
+Added Member To Class: ClassName=U_BLE2 Member=Component ANT1B_U_BLE2 (ANT1B) ANTENNA

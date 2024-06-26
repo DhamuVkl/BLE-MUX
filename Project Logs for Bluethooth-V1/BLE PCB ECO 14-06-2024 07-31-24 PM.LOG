@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=J1C Old Footprint=TENSILITY 54-00177 New Footprint=TENSILITY_54-00177
+Change component parameters: Designator = "J1C" ("J1C"); Footprint = "TENSILITY 54-00177"; UniqueID = "\KZEVVKJF\FFPKYYYX" ("\KZEVVKJF\FFPKYYYX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/54-00177/Tensility+International+Corp/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Tensility International Corp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "54-00177"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=54-00177&ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/54-00177/Tensility+International+Corp/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

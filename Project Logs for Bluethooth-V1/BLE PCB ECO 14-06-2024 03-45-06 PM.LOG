@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=C3B_U_BLE1-1
+Removed Pin From Net: NetName=GND Pin=C3B_U_BLE2-1
+Removed Pin From Net: NetName=GND Pin=C4B_U_BLE1-1
+Removed Pin From Net: NetName=GND Pin=C4B_U_BLE2-1
+Removed Pin From Net: NetName=GND Pin=C10B_U_BLE1-2
+Removed Pin From Net: NetName=GND Pin=C10B_U_BLE2-2
+Removed Pin From Net: NetName=GND Pin=C11B_U_BLE1-2
+Removed Pin From Net: NetName=GND Pin=C11B_U_BLE2-2
+Removed Pin From Net: NetName=GND Pin=J1C-1
+Removed Pin From Net: NetName=GND Pin=R3A-2
+Removed Pin From Net: NetName=GND Pin=U1B_U_BLE1-11
+Removed Pin From Net: NetName=GND Pin=U1B_U_BLE2-11
+Added Pin To Net: NetName=GNDA Pin=C3B_U_BLE1-1
+Added Pin To Net: NetName=GNDA Pin=C3B_U_BLE2-1
+Added Pin To Net: NetName=GNDA Pin=C4B_U_BLE1-1
+Added Pin To Net: NetName=GNDA Pin=C4B_U_BLE2-1
+Added Pin To Net: NetName=GNDA Pin=C10B_U_BLE1-2
+Added Pin To Net: NetName=GNDA Pin=C10B_U_BLE2-2
+Added Pin To Net: NetName=GNDA Pin=C11B_U_BLE1-2
+Added Pin To Net: NetName=GNDA Pin=C11B_U_BLE2-2
+Added Pin To Net: NetName=GNDA Pin=J1C-1
+Added Pin To Net: NetName=GNDA Pin=R3A-2
+Added Pin To Net: NetName=GNDA Pin=U1B_U_BLE1-11
+Added Pin To Net: NetName=GNDA Pin=U1B_U_BLE2-11
+Added Net: Name=GNDA
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
